@@ -1,0 +1,17 @@
+D:\Trabajo\Practicas\Excercises\Practices\ExternalEndpointsCalls_HttpClient\bin\Debug\net6.0\ExternalEndpointsCalls_HttpClient.exe
+D:\Trabajo\Practicas\Excercises\Practices\ExternalEndpointsCalls_HttpClient\bin\Debug\net6.0\ExternalEndpointsCalls_HttpClient.deps.json
+D:\Trabajo\Practicas\Excercises\Practices\ExternalEndpointsCalls_HttpClient\bin\Debug\net6.0\ExternalEndpointsCalls_HttpClient.runtimeconfig.json
+D:\Trabajo\Practicas\Excercises\Practices\ExternalEndpointsCalls_HttpClient\bin\Debug\net6.0\ExternalEndpointsCalls_HttpClient.dll
+D:\Trabajo\Practicas\Excercises\Practices\ExternalEndpointsCalls_HttpClient\bin\Debug\net6.0\ExternalEndpointsCalls_HttpClient.pdb
+D:\Trabajo\Practicas\Excercises\Practices\ExternalEndpointsCalls_HttpClient\obj\Debug\net6.0\ExternalEndpointsCalls_HttpClient.csproj.AssemblyReference.cache
+D:\Trabajo\Practicas\Excercises\Practices\ExternalEndpointsCalls_HttpClient\obj\Debug\net6.0\ExternalEndpointsCalls_HttpClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabajo\Practicas\Excercises\Practices\ExternalEndpointsCalls_HttpClient\obj\Debug\net6.0\ExternalEndpointsCalls_HttpClient.AssemblyInfoInputs.cache
+D:\Trabajo\Practicas\Excercises\Practices\ExternalEndpointsCalls_HttpClient\obj\Debug\net6.0\ExternalEndpointsCalls_HttpClient.AssemblyInfo.cs
+D:\Trabajo\Practicas\Excercises\Practices\ExternalEndpointsCalls_HttpClient\obj\Debug\net6.0\ExternalEndpointsCalls_HttpClient.csproj.CoreCompileInputs.cache
+D:\Trabajo\Practicas\Excercises\Practices\ExternalEndpointsCalls_HttpClient\obj\Debug\net6.0\ExternalEndpointsCalls_HttpClient.dll
+D:\Trabajo\Practicas\Excercises\Practices\ExternalEndpointsCalls_HttpClient\obj\Debug\net6.0\refint\ExternalEndpointsCalls_HttpClient.dll
+D:\Trabajo\Practicas\Excercises\Practices\ExternalEndpointsCalls_HttpClient\obj\Debug\net6.0\ExternalEndpointsCalls_HttpClient.pdb
+D:\Trabajo\Practicas\Excercises\Practices\ExternalEndpointsCalls_HttpClient\obj\Debug\net6.0\ExternalEndpointsCalls_HttpClient.genruntimeconfig.cache
+D:\Trabajo\Practicas\Excercises\Practices\ExternalEndpointsCalls_HttpClient\obj\Debug\net6.0\ref\ExternalEndpointsCalls_HttpClient.dll
+D:\Trabajo\Practicas\Excercises\Practices\ExternalEndpointsCalls_HttpClient\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Trabajo\Practicas\Excercises\Practices\ExternalEndpointsCalls_HttpClient\obj\Debug\net6.0\ExternalEndpointsCalls_HttpClient.csproj.CopyComplete

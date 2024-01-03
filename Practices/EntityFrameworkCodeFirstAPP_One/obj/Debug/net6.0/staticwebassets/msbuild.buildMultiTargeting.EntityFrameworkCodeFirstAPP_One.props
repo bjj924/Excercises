@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EntityFrameworkCodeFirstAPP_One.props" />
+</Project>

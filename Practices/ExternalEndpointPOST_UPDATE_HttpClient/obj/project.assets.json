@@ -1,0 +1,79 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\johob\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Trabajo\\Practicas\\Excercises\\Practices\\ExternalEndpointPOST_UPDATE_HttpClient\\ExternalEndpointPOST_UPDATE_HttpClient.csproj",
+      "projectName": "ExternalEndpointPOST_UPDATE_HttpClient",
+      "projectPath": "D:\\Trabajo\\Practicas\\Excercises\\Practices\\ExternalEndpointPOST_UPDATE_HttpClient\\ExternalEndpointPOST_UPDATE_HttpClient.csproj",
+      "packagesPath": "C:\\Users\\johob\\.nuget\\packages\\",
+      "outputPath": "D:\\Trabajo\\Practicas\\Excercises\\Practices\\ExternalEndpointPOST_UPDATE_HttpClient\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\johob\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://dacgrouplabs.pkgs.visualstudio.com/_packaging/Common/nuget/v3/index.json": {},
+        "https://dacgrouplabs.pkgs.visualstudio.com/_packaging/Phoenix/nuget/v3/index.json": {},
+        "https://dacgrouplabs.pkgs.visualstudio.com/phoenix/_packaging/TSEE.Common/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

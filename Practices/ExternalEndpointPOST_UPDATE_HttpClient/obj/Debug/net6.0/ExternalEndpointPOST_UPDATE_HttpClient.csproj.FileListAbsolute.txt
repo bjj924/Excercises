@@ -1,0 +1,15 @@
+D:\Trabajo\Practicas\Excercises\Practices\ExternalEndpointPOST_UPDATE_HttpClient\obj\Debug\net6.0\ExternalEndpointPOST_UPDATE_HttpClient.csproj.AssemblyReference.cache
+D:\Trabajo\Practicas\Excercises\Practices\ExternalEndpointPOST_UPDATE_HttpClient\obj\Debug\net6.0\ExternalEndpointPOST_UPDATE_HttpClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabajo\Practicas\Excercises\Practices\ExternalEndpointPOST_UPDATE_HttpClient\obj\Debug\net6.0\ExternalEndpointPOST_UPDATE_HttpClient.AssemblyInfoInputs.cache
+D:\Trabajo\Practicas\Excercises\Practices\ExternalEndpointPOST_UPDATE_HttpClient\obj\Debug\net6.0\ExternalEndpointPOST_UPDATE_HttpClient.AssemblyInfo.cs
+D:\Trabajo\Practicas\Excercises\Practices\ExternalEndpointPOST_UPDATE_HttpClient\obj\Debug\net6.0\ExternalEndpointPOST_UPDATE_HttpClient.csproj.CoreCompileInputs.cache
+D:\Trabajo\Practicas\Excercises\Practices\ExternalEndpointPOST_UPDATE_HttpClient\bin\Debug\net6.0\ExternalEndpointPOST_UPDATE_HttpClient.exe
+D:\Trabajo\Practicas\Excercises\Practices\ExternalEndpointPOST_UPDATE_HttpClient\bin\Debug\net6.0\ExternalEndpointPOST_UPDATE_HttpClient.deps.json
+D:\Trabajo\Practicas\Excercises\Practices\ExternalEndpointPOST_UPDATE_HttpClient\bin\Debug\net6.0\ExternalEndpointPOST_UPDATE_HttpClient.runtimeconfig.json
+D:\Trabajo\Practicas\Excercises\Practices\ExternalEndpointPOST_UPDATE_HttpClient\bin\Debug\net6.0\ExternalEndpointPOST_UPDATE_HttpClient.dll
+D:\Trabajo\Practicas\Excercises\Practices\ExternalEndpointPOST_UPDATE_HttpClient\bin\Debug\net6.0\ExternalEndpointPOST_UPDATE_HttpClient.pdb
+D:\Trabajo\Practicas\Excercises\Practices\ExternalEndpointPOST_UPDATE_HttpClient\obj\Debug\net6.0\ExternalEndpointPOST_UPDATE_HttpClient.dll
+D:\Trabajo\Practicas\Excercises\Practices\ExternalEndpointPOST_UPDATE_HttpClient\obj\Debug\net6.0\refint\ExternalEndpointPOST_UPDATE_HttpClient.dll
+D:\Trabajo\Practicas\Excercises\Practices\ExternalEndpointPOST_UPDATE_HttpClient\obj\Debug\net6.0\ExternalEndpointPOST_UPDATE_HttpClient.pdb
+D:\Trabajo\Practicas\Excercises\Practices\ExternalEndpointPOST_UPDATE_HttpClient\obj\Debug\net6.0\ExternalEndpointPOST_UPDATE_HttpClient.genruntimeconfig.cache
+D:\Trabajo\Practicas\Excercises\Practices\ExternalEndpointPOST_UPDATE_HttpClient\obj\Debug\net6.0\ref\ExternalEndpointPOST_UPDATE_HttpClient.dll

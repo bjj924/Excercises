@@ -1,0 +1,15 @@
+D:\Trabajo\Practicas\Excercises\Practices\Code_First_EF\bin\Debug\net6.0\Code_First_EF.exe
+D:\Trabajo\Practicas\Excercises\Practices\Code_First_EF\bin\Debug\net6.0\Code_First_EF.deps.json
+D:\Trabajo\Practicas\Excercises\Practices\Code_First_EF\bin\Debug\net6.0\Code_First_EF.runtimeconfig.json
+D:\Trabajo\Practicas\Excercises\Practices\Code_First_EF\bin\Debug\net6.0\Code_First_EF.dll
+D:\Trabajo\Practicas\Excercises\Practices\Code_First_EF\bin\Debug\net6.0\Code_First_EF.pdb
+D:\Trabajo\Practicas\Excercises\Practices\Code_First_EF\obj\Debug\net6.0\Code_First_EF.csproj.AssemblyReference.cache
+D:\Trabajo\Practicas\Excercises\Practices\Code_First_EF\obj\Debug\net6.0\Code_First_EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabajo\Practicas\Excercises\Practices\Code_First_EF\obj\Debug\net6.0\Code_First_EF.AssemblyInfoInputs.cache
+D:\Trabajo\Practicas\Excercises\Practices\Code_First_EF\obj\Debug\net6.0\Code_First_EF.AssemblyInfo.cs
+D:\Trabajo\Practicas\Excercises\Practices\Code_First_EF\obj\Debug\net6.0\Code_First_EF.csproj.CoreCompileInputs.cache
+D:\Trabajo\Practicas\Excercises\Practices\Code_First_EF\obj\Debug\net6.0\Code_First_EF.dll
+D:\Trabajo\Practicas\Excercises\Practices\Code_First_EF\obj\Debug\net6.0\refint\Code_First_EF.dll
+D:\Trabajo\Practicas\Excercises\Practices\Code_First_EF\obj\Debug\net6.0\Code_First_EF.pdb
+D:\Trabajo\Practicas\Excercises\Practices\Code_First_EF\obj\Debug\net6.0\Code_First_EF.genruntimeconfig.cache
+D:\Trabajo\Practicas\Excercises\Practices\Code_First_EF\obj\Debug\net6.0\ref\Code_First_EF.dll

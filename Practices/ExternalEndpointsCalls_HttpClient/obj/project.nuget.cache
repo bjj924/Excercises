@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aQOP/MbKlugIXS2NsCd8n4oS/Gp4mYJsn1uff5oeDwzKa+kurUxpNpgvCpgHdinU+gnPNLkhSiHJSkii2nN0bQ==",
+  "success": true,
+  "projectFilePath": "D:\\Trabajo\\Practicas\\Excercises\\Practices\\ExternalEndpointsCalls_HttpClient\\ExternalEndpointsCalls_HttpClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johob\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
