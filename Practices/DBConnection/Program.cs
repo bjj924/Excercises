@@ -1,8 +1,8 @@
-﻿using EntityFrameworkCodeFirstAPP.Models;
-using System;
+﻿using System;
 using System.Data.SqlClient;
 using System.Configuration;
 using Dapper;
+using DBConnection;
 
 Console.WriteLine("Connection to a DB");
 Console.WriteLine("");
@@ -104,17 +104,44 @@ var query = "select * from Users";
 
 //Insert con Dapper
 
-var insertQuery = "INSERT INTO Users (Name, ContactNumber) VALUES (@name, @contactnumber)";
+//var insertQuery = "INSERT INTO Users (Name, ContactNumber) VALUES (@name, @contactnumber)";
 
-using (SqlConnection connection = new SqlConnection(ConfigurationManager.ConnectionStrings["dbConnection"].ConnectionString))
-{
-    connection.Execute(insertQuery, new { name = "Prueba", contactnumber ="1134280099" });
-    var users = connection.Query<Users>(query).ToList();
-}
+//using (SqlConnection connection = new SqlConnection(ConfigurationManager.ConnectionStrings["dbConnection"].ConnectionString))
+//{
+//    connection.Execute(insertQuery, new { name = "Prueba", contactnumber ="1134280099" });
+//    var users = connection.Query<Users>(query).ToList();
+//}
 
 Console.WriteLine("-----------------------------------");
 Console.WriteLine("Using EF");
+Console.WriteLine("To work with EF we need two NuGet Packages");
+Console.WriteLine("The Microsoft.EntityFrameworkCore.SqlServer nuget package ");
+Console.WriteLine("The version for all is the 6.0.0, I have to read the documentation to see if the context is still necesary");
+Console.WriteLine("The Microsoft.EntityFrameworkCore.Tools nuget package ");
+Console.WriteLine("And The Microsoft.Extensions.Configuration nuget package ");
+Console.WriteLine("Then we create the context for the calls");
+Console.WriteLine("Once the context is done then we make the call");
+
+using (var context = new UsersDbContext())
+{
+    foreach (var item in context.Users)
+    {
+        Console.WriteLine("-----------------------------------");
+        Console.WriteLine($"|        {item.Id}        |");
+        Console.WriteLine($"|        {item.Name}        |");
+        Console.WriteLine($"|        {item.ContactNumber}        |");
+        Console.WriteLine("-----------------------------------");
+    }
+
+}
+Console.WriteLine("The Context is the one that manage the conection in here, for more info, read the documentation");
+Console.WriteLine("https://learn.microsoft.com/en-us/ef/");
+Console.WriteLine("");
+
 Console.WriteLine("-----------------------------------");
+Console.WriteLine("");
+Console.WriteLine("");
 Console.WriteLine("Using NHibernate");
+Console.WriteLine("In Another Proyect: NHibernate");
 Console.WriteLine("-----------------------------------");
 Console.ReadKey();

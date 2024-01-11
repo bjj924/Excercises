@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExternalEndpointsCalls_Http
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExternalEndpointPOST_UPDATE_HttpClient", "ExternalEndpointPOST_UPDATE_HttpClient\ExternalEndpointPOST_UPDATE_HttpClient.csproj", "{AC3B2563-85E4-4F1D-B498-1F4CBCFF4259}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBConnection", "DBConnection\DBConnection.csproj", "{9BD9566A-F4C8-4C10-9B08-739B2FAF0BDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DBConnection", "DBConnection\DBConnection.csproj", "{9BD9566A-F4C8-4C10-9B08-739B2FAF0BDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHibernate_DBConnection", "NHibernate_DBConnection\NHibernate_DBConnection.csproj", "{F527CD3F-7210-45BC-B289-B7E4581D1F62}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{9BD9566A-F4C8-4C10-9B08-739B2FAF0BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BD9566A-F4C8-4C10-9B08-739B2FAF0BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BD9566A-F4C8-4C10-9B08-739B2FAF0BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F527CD3F-7210-45BC-B289-B7E4581D1F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F527CD3F-7210-45BC-B289-B7E4581D1F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F527CD3F-7210-45BC-B289-B7E4581D1F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F527CD3F-7210-45BC-B289-B7E4581D1F62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
